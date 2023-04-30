@@ -5,6 +5,6 @@
 	display: inline;
 }
 
-.nav-menu-item:hover{
+.nav-menu-item a:hover{
 	color: darkblue;
 }
