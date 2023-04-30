@@ -1,7 +1,7 @@
-#navigator{
+#nav-menu-list{
 	display: flex;
 }
-.nav-menu-list{
+.nav-menu-item{
 	display: inline;
 }
 
