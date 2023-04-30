@@ -1,3 +1,4 @@
-li{
-	color: darkred;
+ul{
+	display: flex;
+	flex-direction: row;
 }
