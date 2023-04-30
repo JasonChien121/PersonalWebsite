@@ -4,3 +4,7 @@
 .nav-menu-item{
 	display: inline;
 }
+
+.nav-menu-item:hover{
+	color: darkblue;
+}
