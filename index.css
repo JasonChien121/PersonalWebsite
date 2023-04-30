@@ -1,4 +1,6 @@
-
-li{
+#navigator{
+	display: flex;
+}
+.nav-menu-item{
 	display: inline;
 }
