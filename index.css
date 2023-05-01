@@ -10,7 +10,7 @@
 	height: 64px;
 	padding-left: 64px;
 	padding-right: 64px;
-
+	border-bottom: 1px solid grey;
 }
 .nav-menu-item{
 	display: inline-block;
