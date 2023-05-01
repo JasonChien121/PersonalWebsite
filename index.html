@@ -1,21 +1,27 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-	<link href="index.css" rel="stylesheet" type="text/css" />
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>设计学习之路</title>
+	<link rel="stylesheet" href="css/index.css">
+	<link rel="stylesheet" href="css/material-theme/colors.module.css">
+	<link rel="stylesheet" href="css/material-theme/theme.css">
+	<link rel="stylesheet" href="css/material-theme/theme.light.css">
+	<link rel="stylesheet" href="css/material-theme/tokens.css">
+	<link rel="stylesheet" href="css/material-theme/typography.module.css">
+
 
 </head>
 <body>
 	<header id="header">
 		<nav id="navigator">
-			<ul id="nav-menu-list">
-				<li class="nav-menu-item" id="home"><a href="#">主页</a></li>
-				<li class="nav-menu-item" id="about"><a href="#">关于</a></li>
-				<li class="nav-menu-item" id="works"><a href="#">作品</a></li>
-				<li class="nav-menu-item" id="articles"><a href="#">文章</a></li>
-				<li class="nav-menu-item" id="contact"><a href="#">联系我</a></li>
+			<ul class="primary" id="nav-menu-list">
+				<li class="nav-menu-item" id="home"><a class="on-primary-text" href="#">主页</a></li>
+				<li class="nav-menu-item" id="about"><a class="on-primary-text" href="#">关于</a></li>
+				<li id="site-logo-wrapper"><a href="index.html"><img id="site-logo" src="assets/images/LOGO/site-logo/SVG/Type_White.svg" alt="网站LOGO"></a></li>
+				<li class="nav-menu-item" id="articles"><a class="on-primary-text" href="#">文章</a></li>
+				<li class="nav-menu-item" id="contact"><a class="on-primary-text" href="#">联系</a></li>
 			</ul>
 		</nav>
 	</header>

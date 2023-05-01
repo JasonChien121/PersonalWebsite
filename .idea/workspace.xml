@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a806b642-d9cb-4a27-a9a7-1d1a4074e063" name="Changes" comment="修改导航栏元素文本" />
+    <list default="true" id="a806b642-d9cb-4a27-a9a7-1d1a4074e063" name="Changes" comment="修改导航栏文字" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +43,15 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documents\GitHub\PersonalWebsite\assets\images\LOGO\site-logo" />
+      <recent name="D:\Documents\GitHub\PersonalWebsite\assets" />
+      <recent name="D:\Documents\GitHub\PersonalWebsite\css" />
+      <recent name="D:\Documents\GitHub\PersonalWebsite" />
+      <recent name="D:\Documents\GitHub\PersonalWebsite\material-theme" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,7 +64,7 @@
       <workItem from="1682928627730" duration="717000" />
       <workItem from="1682929352524" duration="2035000" />
       <workItem from="1682944523582" duration="598000" />
-      <workItem from="1682962726747" duration="321000" />
+      <workItem from="1682962726747" duration="5177000" />
     </task>
     <task id="LOCAL-00001" summary="修改导航栏元素文本">
       <created>1682929554485</created>
