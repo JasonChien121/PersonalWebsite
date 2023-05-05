@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a806b642-d9cb-4a27-a9a7-1d1a4074e063" name="Changes" comment="修改导航栏文字">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +69,7 @@
       <workItem from="1682944523582" duration="598000" />
       <workItem from="1682962726747" duration="5177000" />
       <workItem from="1683180222343" duration="949000" />
+      <workItem from="1683244734886" duration="1077000" />
     </task>
     <task id="LOCAL-00001" summary="修改导航栏元素文本">
       <created>1682929554485</created>
